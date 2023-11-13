@@ -120,7 +120,7 @@
     "jest-environment-jsdom": "^29.0.3",
     "jest-jasmine2": "28.1.1",
     "jest-react-native": "18.0.0",
-    "metro": "0.72.3",
+    "metro": "0.80.1",
     "metro-babel-register": "0.73.3",
     "metro-react-native-babel-preset": "0.73.3",
     "metro-resolver": "0.73.3",
